@@ -1,0 +1,1 @@
+ quando terminar de instalar copie o GTA da pasta CRACK (Do setup) vai em program files/ rockstar/ GTA San Andreas nessa pasta GTA San Andreas o executvel GTA_san.exe deleta ele, e o GTA que voce copiou da pasta CRACK cola na pasta GTA San Andreas  (program files/ rockstar/ GTA San Andreas) e pronto voce ativou o GTA
